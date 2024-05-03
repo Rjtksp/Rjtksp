@@ -3,7 +3,7 @@
 <ul> 
   <li>🌍  I'm based in India</li>
   <li>✉️  You can contact me at <a href="mailto:rajatkashyap099@gmail.com">rajatkashyap099@gmail.com</a></li>
-  <li>🧠  I'm learning MERN Stack and Data Structure Algorithms in Java</li>
+  <li>🧠  I'm learning Laravel and CI</li>
   <li>🤝  I'm open to collaborating on interesting projects</li>
 <!--   <li>⚡  I am enthusiast about open source projects</li> -->
 </ul>
