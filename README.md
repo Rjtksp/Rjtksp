@@ -1,3 +1,8 @@
+<!-- Cover Image -->
+<p align="center">
+  <img src="" alt="Cover Image" style="width: 100%; max-width: 1280px; border-radius: 8px;">
+</p>
+
 <h1>Hi there 👋, I'm Rajat Kashyap</h1>
 <h3>🚀 Web Developer | 💡 Creative Designer | 🌍 Based in India</h3>
 
