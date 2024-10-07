@@ -1,5 +1,5 @@
 <h1>Hi there 👋, I'm Rajat Kashyap</h1>
-<h3>🚀 Full Stack Developer | 💡 Creative Designer | 🌍 Based in India</h3>
+<h3>🚀 Web Developer | 💡 Creative Designer | 🌍 Based in India</h3>
 
 <p>
   I'm passionate about building interactive and scalable web applications, with expertise in backend logic and a flair for creative UI/UX design.
@@ -56,9 +56,9 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🌱 I'm always expanding my skills and currently diving deeper into **React** and **Node.js**.
 - 🤝 I'm open to collaborating on projects that challenge my skills and offer room for growth.
 - 🎨 I have a passion for **UI/UX Design**, ensuring that everything I build is visually appealing and user-friendly.
+- 🌱 I'm always expanding my skills and currently diving deeper into **React** and **Node.js**.
 - ✨ Fun Fact: I love creating intuitive designs that make the web more enjoyable for everyone!
 
 ---
@@ -73,6 +73,6 @@
 ---
 
 <p>
-  Thanks for visiting my profile! 😊<br>
+  😊 Thanks for visiting my profile! 😊<br>
   💡 Let's innovate and create amazing projects together!
 </p>
