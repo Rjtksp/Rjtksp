@@ -16,13 +16,32 @@
 <hr>
 
 <h3>💼 Tech Stack & Skills</h3>
-<ul>
-  <li><strong>Frontend:</strong> HTML, CSS, JavaScript, React, Bootstrap, Tailwind CSS</li>
-  <li><strong>Backend:</strong> PHP (expert in MySQLi), Node.js, RESTful APIs</li>
-  <li><strong>Database:</strong> MySQL, SQLite</li>
-  <li><strong>Tools & Platforms:</strong> Git, GitHub, Figma, Adobe XD</li>
-  <li><strong>Others:</strong> Responsive Web Design, Cross-browser Compatibility, UI/UX Design</li>
-</ul>
+
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></td>
+    <td><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></td>
+    <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></td>
+    <td><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"></td>
+    <td><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"></td>
+    <td><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"></td>
+    <td><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></td>
+    <td><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"></td>
+    <td><img src="https://img.shields.io/badge/RESTful%20API-02569B?style=for-the-badge&logo=api&logoColor=white" alt="RESTful API"></td>
+    <td><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></td>
+    <td><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></td>
+    <td><img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" alt="Adobe XD"></td>
+    <td><img src="https://img.shields.io/badge/Responsive%20Design-239120?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design"></td>
+    <td><img src="https://img.shields.io/badge/Cross--Browser%20Compatibility-4285F4?style=for-the-badge&logo=browserstack&logoColor=white" alt="Cross-browser Compatibility"></td>
+    <td><img src="https://img.shields.io/badge/UI%2FUX-FF69B4?style=for-the-badge&logo=ux&logoColor=white" alt="UI/UX Design"></td>
+  </tr>
+</table>
 
 <hr>
 
