@@ -60,7 +60,7 @@
 
 ---
 
-<p align="center">
+<p>
   Thanks for visiting my profile! 😊<br>
   💡 Let's innovate and create amazing projects together!
 </p>
