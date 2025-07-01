@@ -63,7 +63,7 @@
 ### 🧑‍💻 About Me
 Over 5 years of experience in web development and design, I specialize in creating beautiful, responsive, and user-friendly websites. Whether you're looking to develop a custom website, optimize an existing platform, or build an online store, I offer seamless solutions to your unique needs.
 
-### Expertise
+### 🚀 Expertise
 Skilled in HTML5, CSS3, JavaScript, React / Vue, Bootstrap 5, PHP, WordPress, Laravel, and MySQL, I deliver complete web solutions from design to deployment. Whether it's a business site, custom dashboard, or eCommerce platform, I provide reliable and scalable outcomes.
 
 ---
