@@ -13,7 +13,7 @@
 <div>
   <a href="mailto:rajatkashyap099@gmail.com"><img src="https://img.shields.io/badge/Email-me-red?style=flat-square&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/rajatkashyap099" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-connect-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://github.com/Rjtksp" target="_blank"><img src="https://img.shields.io/badge/GitHub-follow-black?style=flat-square&logo=github"></a>
+  <!-- <a href="https://github.com/Rjtksp" target="_blank"><img src="https://img.shields.io/badge/GitHub-follow-black?style=flat-square&logo=github"></a> -->
 </div>
 
 ---
@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/WordPress-%234192E4.svg?&style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
   <img src="https://img.shields.io/badge/CodeIgniter-%23E44D26.svg?&style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter"/>
-  <img src="https://img.shields.io/badge/Drupal-%230e7b9c.svg?&style=for-the-badge&logo=drupal&logoColor=white" alt="Drupal"/>
+  <!-- <img src="https://img.shields.io/badge/Drupal-%230e7b9c.svg?&style=for-the-badge&logo=drupal&logoColor=white" alt="Drupal"/> -->
   <img src="https://img.shields.io/badge/JotForm-%23E4002B.svg?&style=for-the-badge&logo=jotform&logoColor=white" alt="JotForm"/>
 </p>
 
@@ -72,7 +72,7 @@
 <div>
   <a href="mailto:rajatkashyap099@gmail.com"><img src="https://img.shields.io/badge/Email-me-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/rajatkashyap099" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/Rjtksp" target="_blank"><img src="https://img.shields.io/badge/GitHub-follow-black?style=for-the-badge&logo=github"></a>
+  <!-- <a href="https://github.com/Rjtksp" target="_blank"><img src="https://img.shields.io/badge/GitHub-follow-black?style=for-the-badge&logo=github"></a> -->
 </div>
 
 ---
