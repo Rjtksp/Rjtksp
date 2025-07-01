@@ -12,7 +12,7 @@
 
 <div>
   <a href="mailto:rajatkashyap099@gmail.com"><img src="https://img.shields.io/badge/Email-me-red?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/rajatkashyap099" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-connect-blue?style=flat-square&logo=linkedin"></a>
+  <!-- <a href="https://www.linkedin.com/in/rajatkashyap099" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-connect-blue?style=flat-square&logo=linkedin"></a> -->
   <!-- <a href="https://github.com/Rjtksp" target="_blank"><img src="https://img.shields.io/badge/GitHub-follow-black?style=flat-square&logo=github"></a> -->
 </div>
 
@@ -71,7 +71,7 @@
 ### 📫 Let's Connect!
 <div>
   <a href="mailto:rajatkashyap099@gmail.com"><img src="https://img.shields.io/badge/Email-me-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/rajatkashyap099" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <!-- <a href="https://www.linkedin.com/in/rajatkashyap099" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-connect-blue?style=for-the-badge&logo=linkedin"></a> -->
   <!-- <a href="https://github.com/Rjtksp" target="_blank"><img src="https://img.shields.io/badge/GitHub-follow-black?style=for-the-badge&logo=github"></a> -->
 </div>
 
